@@ -14,7 +14,7 @@
 
 main,
 header {
-    > * {
+    >* {
         z-index: 100;
     }
 }
@@ -24,6 +24,10 @@ header {
 }
 
 .about-me {
+    main > div {
+        margin-top: 100px;
+    }
+
     &::after {
         content: '';
         position: absolute;
@@ -71,7 +75,7 @@ header {
         }
 
         h2 {
-            transition: transform .8s ease-in-out;  
+            transition: transform .8s ease-in-out;
         }
 
         &:hover:not(.about-me__selection-item--active) {
