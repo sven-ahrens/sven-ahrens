@@ -1,0 +1,52 @@
+---
+export interface Props {
+	title: string;
+	id: string;
+}
+
+const { title, id } = Astro.props;
+const pagePathname = Astro.url.pathname;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+	</head>
+	<body
+		class={`${id} bg-slate-900 h-screen flex flex-col justify-center relative`}
+	>
+		<header class="text-white p-6 md:px-32 flex justify-between">
+			<div>
+				<a
+					class={`${
+						pagePathname === "/"
+							? "underline decoration-pink-500 font-bold"
+							: ""
+					} mr-2 text-lg`}
+					href="/"
+				>
+					Home
+				</a>
+				<a
+					class={`${
+						pagePathname === "/about-me"
+							? "underline decoration-pink-500 font-bold"
+							: ""
+					} mr-2 text-lg`}
+					href="/about-me"
+				>
+					About me
+				</a>
+			</div>
+			<a class="text-lg" href="mailto:hello@svenahrens.me">
+				hello@svenahrens.me
+			</a>
+		</header>
+		<slot />
+	</body>
+</html>
