@@ -42,7 +42,7 @@
 
     &__selection-item {
         &--active {
-            background-color: rgba(#FF8383, .9);
+            background-color: rgba(#FF8383, .8);
 
             h2 {
                 transform: rotate(0);
@@ -50,14 +50,18 @@
         }
 
         h2 {
-            transition: transform .8s ease-in-out;
+            @media (min-width: 1024px) {
+                transition: transform .5s ease-in-out;
+            }
         }
 
-        &:hover:not(.about-me__selection-item--active) {
-            background-color: rgba(#FF8383, .5);
-
-            h2 {
-                transform: rotate(0);
+        @media (min-width: 1024px) {
+            &:hover:not(.about-me__selection-item--active) {
+                background-color: rgba(#FF8383, .5);
+    
+                h2 {
+                    transform: rotate(0);
+                }
             }
         }
     }
