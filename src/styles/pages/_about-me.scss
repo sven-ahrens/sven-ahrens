@@ -1,31 +1,6 @@
-@keyframes gradient {
-    0% {
-        background-color: #e66465;
-    }
-
-    50% {
-        background-color: #9198e5;
-    }
-
-    100% {
-        background-color: #e66465;
-    }
-}
-
-main,
-header {
-    >* {
-        z-index: 100;
-    }
-}
-
-header {
-    width: 100%;
-}
-
 .about-me {
-    main > div {
-        margin-top: 100px;
+    main > * {
+        z-index: 100;
     }
 
     &::after {

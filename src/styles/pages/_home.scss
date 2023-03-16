@@ -12,18 +12,11 @@
     }
 }
 
-main,
-header {
-    > * {
+.home {
+    main > * {
         z-index: 100;
     }
-}
 
-header {
-    width: 100%;
-}
-
-.home {
     &::before {
         content: ' ';
         position: absolute;

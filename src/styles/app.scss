@@ -5,6 +5,10 @@
 @import 'variables';
 @import 'typo';
 
+// Components
+
+@import './modules/header';
+
 // Pages
 
 @import './pages/home';
