@@ -43,7 +43,9 @@ From dev life to solutioneering, here’s a glimpse of what I’ve been building
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-%23005EB8.svg?style=for-the-badge&logo=opensearch&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
-
+![OAuth2](https://img.shields.io/badge/OAuth2-%232196F3.svg?style=for-the-badge&logoColor=white)
+![OIDC](https://img.shields.io/badge/OIDC-%237059AD.svg?style=for-the-badge&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-%231D2738.svg?style=for-the-badge&logo=keycloak&logoColor=white)
 
 #### Cloud & Infrastructure
 
@@ -60,9 +62,21 @@ From dev life to solutioneering, here’s a glimpse of what I’ve been building
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+#### Roadmap (ongoing)
+
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-%237332A4.svg?style=for-the-badge&logo=vault&logoColor=white)
 
 ### Personal
 
 When I code, I have this weird tick: I need to clean my area first — tidy up my desk, grab something delicious to drink (usually a soda), and then go full isolation mode. There's just something about coding at night that hits different. Everything's calm, shiny, I put on some good music and just start crafting software.
 
 Outside of work, I love gaming — mostly World of Warcraft, League of Legends, and other games that somehow bring out my toxic side 😅. I also hit the gym, go for runs, and enjoy traveling — embracing different cultures and just enjoying life.
+
+### Career
+
+TL;DR: Have a look at my linkedin :)
