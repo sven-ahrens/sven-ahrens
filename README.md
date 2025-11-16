@@ -1,10 +1,5 @@
 ## Hello there 👋
 
-I’m Sven — born in ‘97. Old enough to appreciate the '90s and young enough to communicate exclusively in memes. :)
-I spent 7 years as a full-stack dev before switching gears to become a Solution Engineer, diving deep into cloud tech.
-
-This repo is my journey to master cloud engineering technologies — think containers, Kubernetes, Ansible, and w/e else the cloud holds
-
 From dev life to solutioneering, here’s a glimpse of what I’ve been building (not the full list, but you get the vibe):
 
 ### Engineering
@@ -72,8 +67,6 @@ From dev life to solutioneering, here’s a glimpse of what I’ve been building
 ![Vault](https://img.shields.io/badge/Vault-%237332A4.svg?style=for-the-badge&logo=vault&logoColor=white)
 
 ### Personal
-
-When I code, I have this weird tick: I need to clean my area first — tidy up my desk, grab something delicious to drink (usually a soda), and then go full isolation mode. There's just something about coding at night that hits different. Everything's calm, shiny, I put on some good music and just start crafting software.
 
 Outside of work, I love gaming — mostly World of Warcraft, League of Legends, and other games that somehow bring out my toxic side 😅. I also hit the gym, go for runs, and enjoy traveling — embracing different cultures and just enjoying life.
 
